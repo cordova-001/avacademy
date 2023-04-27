@@ -92,7 +92,7 @@
             <nav class="right_menu_togle hidden-md">
                 <div class="close-btn">
                     <div class="nav-link">
-                        <a id="nav-close" class="humburger nav-expander" href="index5.html#">
+                        <a id="nav-close" class="humburger nav-expander" href="#">
                             <span class="dot1"></span>
                             <span class="dot2"></span>
                             <span class="dot3"></span>
@@ -159,7 +159,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <h1 class="title"> Take a lip to becoming a developer today </h1>
+                            <h1 class="title"> Take a lip to becoming an Engineer today </h1>
                             <p class="desc">
                                 This is a complete virtual training platform where you learn exclusively with quality
                                 self paced video.
@@ -431,7 +431,7 @@
                                     01
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="frontend_development.php">Enrol Now</a>
+                                    <a class="readon started" href="frontend_development">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -460,7 +460,7 @@
                                     03
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="backend_development_php.php">Enrol Now</a>
+                                    <a class="readon started" href="backend_development_php">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -488,7 +488,7 @@
                                     02
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="backend_development_python.php">Enrol Now</a>
+                                    <a class="readon started" href="backend_development_python">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -517,7 +517,7 @@
                                     04
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="backend_development_php.php">Enrol Now</a>
+                                    <a class="readon started" href="backend_development_php">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -546,7 +546,7 @@
                                     04
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="backend_development_python.php">Enrol Now</a>
+                                    <a class="readon started" href="backend_development_python">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -574,7 +574,7 @@
                                     06
                                 </div>
                                 <div class="btn-part mt-45">
-                                    <a class="readon started" href="website_design.php">Enrol Now</a>
+                                    <a class="readon started" href="website_design">Enrol Now</a>
                                 </div>
                             </div>
                         </div>
@@ -804,7 +804,7 @@
                                                     <img src="./home_files/4(5).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Neymar
+                                                    <a class="name" href="#">Neymar
                                                         Vuya</a>
                                                     <span class="designation">Arist</span>
                                                 </div>
@@ -824,7 +824,7 @@
                                                     <img src="./home_files/1(7).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Mariya
+                                                    <a class="name" href="#">Mariya
                                                         Khan</a>
                                                     <span class="designation">CEO, Brick Consulting</span>
                                                 </div>
@@ -844,7 +844,7 @@
                                                     <img src="./home_files/2(8).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Sonia
+                                                    <a class="name" href="#">Sonia
                                                         Akther</a>
                                                     <span class="designation">CEO, Keen IT Solution</span>
                                                 </div>
@@ -864,7 +864,7 @@
                                                     <img src="./home_files/3(7).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Felando</a>
+                                                    <a class="name" href="#">Felando</a>
                                                     <span class="designation">Web Developer</span>
                                                 </div>
                                             </div>
@@ -883,7 +883,7 @@
                                                     <img src="./home_files/4(5).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Neymar
+                                                    <a class="name" href="#">Neymar
                                                         Vuya</a>
                                                     <span class="designation">Arist</span>
                                                 </div>
@@ -903,7 +903,7 @@
                                                     <img src="./home_files/1(7).jpg" alt="">
                                                 </div>
                                                 <div class="author-part">
-                                                    <a class="name" href="https://rstheme.com/products/html/braintech/index5.html#">Mariya
+                                                    <a class="name" href="#">Mariya
                                                         Khan</a>
                                                     <span class="designation">CEO, Brick Consulting</span>
                                                 </div>
@@ -938,80 +938,8 @@
     <!-- Main content End -->
 
     <!-- Footer Start -->
-    <footer id="rs-footer" class="rs-footer">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
-                        <div class="footer-logo mb-30">
-                            <a href="#"><img src="./software_files/logo-dark.png" alt=""></a>
-                        </div>
-                        <div class="textwidget pb-30">
-                            <p>AVACADEMY is your best platform to learn software development skills with quality and self paced learning videos</p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
-                        <h3 class="widget-title">Courses on the roll</h3>
-                        <ul class="site-map">
-                            <li><a href="#">Frontend Development</a></li>
-                            <li><a href="#">Backend Development (PHP/MYSQL)</a></li>
-                            <li><a href="#">Backend Development (Python)</a></li>
-                            <li><a href="#">UI/UX Figma</a></li>
-                            <li><a href="#"> Product Management</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
-                        <h3 class="widget-title">Contact Info</h3>
-                        <ul class="address-widget">
-
-                            <li>
-                                <i class="flaticon-call"></i>
-                                <div class="desc">
-                                    <a href="tel:+234-701-676-0106">+234-701-676-0106</a>
-                                </div>
-                            </li>
-                            <li>
-                                <i class="flaticon-email"></i>
-                                <div class="desc">
-                                    <a href="mailto:info@avacademy.com.ng">info@avacademy.com.ng</a>
-                                </div>
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-12 col-sm-12">
-                        <h3 class="widget-title">Newsletter</h3>
-                        <p class="widget-desc">Are you willing to join our newsletter subscribers? pleae kindly drop your email below</p>
-                        <p>
-                            <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                            <em class="paper-plane"><input type="submit" value="Sign up"></em>
-                            <i class="flaticon-send"></i>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row y-middle">
-                    <div class="col-lg-6 text-right md-mb-10 order-last">
-                        <ul class="copy-right-menu">
-                            <li><a href="#">Home</a></li>
-
-                            <li><a href="#">LOGIN</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="copyright">
-                            <p>© 2022 All Rights Reserved</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </footer>
+    
+    <?php include 'footer.php'; ?>
     <!-- Footer End -->
 
     <!-- start scrollUp  -->

@@ -24,7 +24,7 @@
                 </li>
                 </li>
 
-                <li> <a href="index.php">My Account</a>
+                <li> <a href="#">My Account</a>
                 </li>
 
             </ul> <!-- //.nav-menu -->
