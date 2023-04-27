@@ -105,18 +105,11 @@
                         <div class="expand-btn-inner search-icon hidden-sticky hidden-md">
                             <ul>
                                 <li class="sidebarmenu-search">
-                                    <a class="hidden-xs rs-search" data-target=".search-modal" data-toggle="modal" href="https://rstheme.com/products/html/braintech/software-development.html#">
-                                        <i class="flaticon-search"></i>
-                                    </a>
+                                    
                                 </li>
                             </ul>
                             <div class="toolbar-sl-share">
-                                <!--<ul class="social">
-                                    <li><a href="https://rstheme.com/products/html/braintech/software-development.html#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://rstheme.com/products/html/braintech/software-development.html#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://rstheme.com/products/html/braintech/software-development.html#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    <li><a href="https://rstheme.com/products/html/braintech/software-development.html#"><i class="fa fa-instagram"></i></a></li>
-                                </ul>-->
+
                             </div>
                         </div>
                     </div>
@@ -153,32 +146,37 @@
                 <div class="row">
                     <div class="col-lg-6 pr-45 md-pr-15 md-mb-50">
                         <div class="choose-img">
-                            <img src="./software_files/scrum.jpg" alt="images">
+                            <img src="./software_files/terraform-3.png" alt="images">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="sec-title mb-30">
 
                             <h2 class="title pb-20">
-                                Fundmentals of Agile and Scrum Methodology
+                                TERRAFORM AUTOMATION MASTER CLASS
                             </h2>
                             <div class="desc">
-                                Managing Project and Product development can be a daunting endeavour. <br><br> Iterating between diverse team members,
-                                product feature assessment and delivery standard requires an exceptional approach to project Management. <br><br>
-                                This training will expose you to best practices on project management using scrum and agile methodology.
+                                <ul>
+                                <li>Let's get started with Terraform as IaaC</li>
+                                <li>You want to automate your cloud provisioning</li>
+                                <li>You want to get familiar with AWS</li>
+                                <li>You want to provision AWS services without leaving your terminal</li>
+                                <li>Learn the basic terraform commands for powerful provissioning</li>
+                                <li>Have an overview of AWS services with terraform</li>
+                                </ul>
                             </div>
                         </div>
-                        <ul style="font-size: 18px;">
+                        <!-- <ul style="font-size: 18px;">
                             <li><b>Module 1 - </b> Fundamentals of Product Development</li><br>
                             <li><b>Module 2 - </b> Product Development Life Cycle</li><br>
                             <li><b>Module 3 - </b> Scrum and Agile Methodology</li><br>
                             <li><b>Module 4 - </b> Real Life Case Study</li><br>
 
-                        </ul>
+                        </ul> -->
 
                         <div class="btn-part mt-45">
                             <a class="readon learn-more" href="#">Enrol Now</a>
-                            <a class="readon learn-more" href="https://paystack.com/pay/agile-scrum-training">Cost: #5,000</a>
+                            <!-- <a class="readon learn-more" href="https://paystack.com/pay/agile-scrum-training">Cost: #5,000</a> -->
                         </div>
 
                     </div>
@@ -195,11 +193,11 @@
                                             <h3 class="services-title"><a href="#">Who can attend</a></h3>
                                             <p class="services-desc">
                                             <ul>
-                                                <li>Software Developer</li>
+                                                <li>Software Engineers</li>
                                                 <li>Team Leads</li>
-                                                <li>Product Managers</li>
-                                                <li>Project Manager</li>
-                                                <li>Associate Project Manager</li>
+                                                <li>DevOps Engineers</li>
+                                                <li>Infrastructure Engineers</li>
+                                                
                                             </ul>
                                             </p>
                                         </div>
@@ -213,9 +211,8 @@
                                         <div class="services-content">
                                             <h3 class="services-title"><a href="#"> Schedule </a></h3>
                                             <p class="services-desc">
-                                                February 25th - 26th, 2022<br>
-                                                Friday and Saturday <br>
-                                                5:00pm - 7:00pm prompt
+                                                Sunday May 7, 2023 <br>
+                                                1:30pm - 3:00pm
                                             </p>
                                         </div>
                                     </div>
@@ -241,14 +238,14 @@
             </div>
         </div>
 
-        <div class="dynamic pt-120 pb-120 md-pt-80 md-pb-80">
+        <!-- <div class="dynamic pt-120 pb-120 md-pt-80 md-pb-80">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 pr-40 md-pr-15 md-mb-50">
                         <div class="sec-title4">
 
                             <h2 class="title"> Fundamentals of Microsoft Dynamic 365 CRM</h2>
-                            <!--<div class="heading-line"></div>-->
+                            
                             <div class="desc desc-big">
                                 One of the leading business automation solution as a form of ERP is Microsoft suite. Microsoft Dynamic 365 provides one of the best Customer Relations Management Systems with robust customization services. <br> <br>
                                 In this training, you will learn .</div>
@@ -275,7 +272,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Services Section Start -->
+            
             <div class="rs-services style5 pt-120 md-pt-80">
                 <div class="container">
                     <div class="row">
@@ -329,10 +326,10 @@
                     </div>
                 </div>
             </div>
-            <!-- Services Section End -->
-        </div>
+            
+        </div> -->
 
-        <div id="jira" class="rs-about gray-color pt-120 pb-120 md-pt-80 md-pb-60">
+        <!-- <div id="jira" class="rs-about gray-color pt-120 pb-120 md-pt-80 md-pb-60">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 pr-45 md-pr-15 md-mb-50">
@@ -422,7 +419,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <hr>
 
